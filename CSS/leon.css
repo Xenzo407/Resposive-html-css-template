@@ -168,6 +168,7 @@ nav ul li:hover a {
     background-image: url(../Images/landing.jpg);
     background-size: cover;
     position: relative;
+    z-index: -1;
 }
 
 .landing .content {
