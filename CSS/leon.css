@@ -381,6 +381,13 @@ nav ul li:hover a {
         display: none;
     }
 
+    .section .main-head p {
+    margin: -20px 0 0;
+    font-size: 20px;
+    text-align: center;
+    color: #797979;
+}
+    
     .services-container .content {
         margin: 0;
     }
