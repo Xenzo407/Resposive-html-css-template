@@ -382,7 +382,7 @@ nav ul li:hover a {
     }
 
     .section .main-head p {
-    margin: -20px 0 0;
+    margin: -20px 0 0 !important;
     font-size: 20px;
     text-align: center;
     color: #797979;
